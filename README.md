@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+:computer: **Desarrollador de software**
+:pencil: **Generador de contenido**
+:eyeglasses: **Geek empedernido**
+
+### Vias de contacto
+[Website](https://gigpz.com/)
+
+
+
 <!--
 **cristhianGigpz/cristhianGigpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
